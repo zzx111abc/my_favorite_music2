@@ -1,0 +1,2 @@
+# my_favorite_music2
+我QQ音乐和网易云音乐收藏的我喜欢的歌曲
